@@ -1,1 +1,1 @@
-Monte Kietpawpan, jTech Group
+Monte Kietpawpan, jTech
