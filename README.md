@@ -1,5 +1,7 @@
 # Monte Kietpawpan
-- Ph.D.(Environmental Management)
-- Full Stack Developer, Service Link Center, Ministry of Natural Resources and Environment, Bangkok
-
+I am interested in
+- System Dynamics Modeling
+- Web Application Developement
+- Personal Data Protection Act B.E. 2562
+- Governmental Infomation Act B.E. 2540
 
